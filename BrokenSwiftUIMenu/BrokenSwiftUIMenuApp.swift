@@ -6,7 +6,7 @@ struct FocusableView: View {
 
     var body: some View {
         VStack {
-            Text("isFocued: \(isFocused ? "true" : "false")")
+            Text("isFocused: \(isFocused ? "true" : "false")")
                 .padding()
             Text("Return Key Pressed Count: \(numberOfReturnKeyPressed)")
                 .padding()

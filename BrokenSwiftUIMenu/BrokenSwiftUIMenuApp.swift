@@ -47,6 +47,7 @@ struct BrokenSwiftUIMenuApp: App {
                     Text("Open Menu (Keyboard will appear)")
                 }
                 .padding()
+                .compositingGroup() // fixes _UIReparentingView warning
             }
         }
     }

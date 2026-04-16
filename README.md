@@ -21,6 +21,8 @@ Additionally, the following runtime issue (`com.apple.runtime-issues`) is logged
 
 [demo.mp4](demo.mp4)
 
+https://github.com/user-attachments/assets/9724f151-48c0-40db-9fe7-8102da16cdf5
+
 ## Environment
 
 - Xcode 26.4.0
